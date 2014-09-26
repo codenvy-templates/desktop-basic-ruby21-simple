@@ -1,1 +1,1 @@
-{"attributes":{"runner.env_id":["ruby212"]},"projectTypeId":"blank","builder":null,"runner":"ruby-webapp-default","defaultBuilderEnvironment":null,"defaultRunnerEnvironment":null,"builderEnvironmentConfigurations":{},"runnerEnvironmentConfigurations":{},"description":null}
+{"attributes":{"runner.env_id":["ruby212"]},"projectTypeId":"blank","builder":null,"runner":"ruby-standalone-default","defaultBuilderEnvironment":null,"defaultRunnerEnvironment":null,"builderEnvironmentConfigurations":{},"runnerEnvironmentConfigurations":{},"description":null}
