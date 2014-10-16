@@ -1,1 +1,1 @@
-{"type":"blank","attributes":{},"runners":{"default":"system:/ruby-standalone-default/ruby212","configs":{}},"builders":{}}
+{"type":"blank","attributes":{},"runners":{"default":"system:/ruby/standalone/ruby210","configs":{}},"builders":{}}
