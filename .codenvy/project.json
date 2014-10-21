@@ -1,1 +1,1 @@
-{"type":"blank","properties":[{"name":"runner.name","value":["ruby-standalone-default"]},{"name":"runner.env_id","value":["ruby212"]}]}
+{"type":"ruby","properties":[{"name":"runner.name","value":["ruby-standalone-default"]},{"name":"runner.env_id","value":["ruby212"]}]}
